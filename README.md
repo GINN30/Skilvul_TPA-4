@@ -19,14 +19,14 @@ Project ini berisikan Design Erd yang sudah dibuat beserta Query yang dapat digu
 
 - ### Query Database
  - Dalam file sudah dibuat beberapa query, diantaranya yaitu :
-   - 1. Query Create Database.
-   - 2. Query Use Database.
-   - 3. Query Create Tables.
-   - 4. Query Insert Tables.
-   - 5. Query Untuk menampilkan data yang ada di Tables.
-   - 6. Query Mengubah data Tables.
-   - 7. Query Menghapus data Tables.
-   - 8. Query Menghapus Tables dan Database.
+   1. Query Create Database.
+   2. Query Use Database.
+   3. Query Create Tables.
+   4. Query Insert Tables.
+   5. Query Untuk menampilkan data yang ada di Tables.
+   6. Query Mengubah data Tables.
+   7. Query Menghapus data Tables.
+   8. Query Menghapus Tables dan Database.
 
 - ### Contributing
  - dalam kontribusinya sendiri project ini saya buat sendiri untuk memenuhi tugas dalam T4I Skilvul.
