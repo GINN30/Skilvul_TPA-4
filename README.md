@@ -1,4 +1,4 @@
-**# Skilvul_TPA-4** 
+# Skilvul_TPA-4
 ## Online Retail Database Design
 
 ## Table of Contents
