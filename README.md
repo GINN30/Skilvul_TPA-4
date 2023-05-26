@@ -4,8 +4,8 @@
 ## Table of Contents
 
 - [Description](#Description)
-- [Erd](#ERD Design)
-- [Query](#Query Database)
+- [Erd](#ERDDesign)
+- [Query](#QueryDatabase)
 - [Contributing](#contributing)
 
 - ### Description
