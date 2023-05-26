@@ -2,3 +2,4 @@
 ## Online Retail Database Design
 
 - ### ERD Design
+ -![Example Image](ERD-ERD1.png)
