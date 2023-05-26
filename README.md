@@ -3,9 +3,9 @@
 
 ## Table of Contents
 
-- [Description](#E)
-- [Erd](#erd)
-- [Query](#query)
+- [Description](#Description)
+- [Erd](#ERD Design)
+- [Query](#Query Database)
 - [Contributing](#contributing)
 
 - ### Description
